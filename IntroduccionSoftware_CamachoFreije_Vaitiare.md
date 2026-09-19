@@ -2,27 +2,25 @@
 
 ## ¿Qué es un programa informático?
 
-Un programa informático es un conjunto de instrucciones que indican a un ordenador qué acciones debe realizar para llevar a cabo una determinada tarea.
+Un programa informático es una pieza de software, es decir, una secuencia compleja de instrucciones y procesos orquestados para cumplir una tarea específica en un ordenador o varios.
 
-Los programas informáticos permiten realizar numerosas actividades, como navegar por Internet, editar documentos, reproducir vídeos, jugar a videojuegos o gestionar información.
+Sirven para distintas tareas.
 
 ## Diferencia entre código fuente, código objeto y código ejecutable
 
 ### Código fuente
 
-El código fuente es el conjunto de instrucciones escritas por un programador utilizando un lenguaje de programación, como Java, Python, C o JavaScript.
+Es la expresión en un lenguaje de programación de los algoritmos y soluciones ideados por el desarrollador de software. 
 
-Es el código que los programadores pueden leer, modificar y mantener.
+Lo que utilizan los programadores para programar.
 
 ### Código objeto
 
-El código objeto es el resultado de traducir el código fuente mediante un compilador. Contiene instrucciones en un formato que posteriormente puede ser utilizado para generar el programa ejecutable.
+ El código objeto es un archivo binario generado por el compilador a partir del código fuente.
 
 ### Código ejecutable
 
-El código ejecutable es el código que puede ser cargado y ejecutado por el sistema operativo para poner en funcionamiento un programa.
-
-Por ejemplo, en Windows es habitual encontrar archivos ejecutables con la extensión .exe.
+ El código ejecutable es un archivo binario que puede ser ejecutado directamente por el sistema operativo.
 
 ## Etapas del desarrollo del software
 
