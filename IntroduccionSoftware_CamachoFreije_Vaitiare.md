@@ -37,7 +37,7 @@ El desarrollo de software se puede dividir en varias etapas:
 
 ## Imagen
 
-![Etapas del desarrollo de software](https://upload.wikimedia.org/wikipedia/commons/1/1b/Software_development_life_cycle.svg)
+![Programación](https://upload.wikimedia.org/wikipedia/commons/3/3b/JavaScript_source_code.png)
 
 ## Repositorio
 
