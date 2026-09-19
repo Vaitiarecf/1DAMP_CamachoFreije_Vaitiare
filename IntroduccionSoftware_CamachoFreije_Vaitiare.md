@@ -37,7 +37,7 @@ El desarrollo de software se puede dividir en varias etapas:
 
 ## Imagen
 
-![Programación](https://upload.wikimedia.org/wikipedia/commons/3/3b/JavaScript_source_code.png)
+![Software](imagenes/software.jpg)
 
 ## Repositorio
 
