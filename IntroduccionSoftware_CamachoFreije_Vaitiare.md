@@ -37,9 +37,8 @@ El desarrollo de software se puede dividir en varias etapas:
 
 ## Imagen
 
-Aquí se incluye una imagen relacionada con el desarrollo de software.
+![Etapas del desarrollo de software](https://upload.wikimedia.org/wikipedia/commons/1/1b/Software_development_life_cycle.svg)
 
 ## Repositorio
 
-Enlace al repositorio de GitHub:
-PEGAR AQUÍ EL ENLACE
+[Ver el repositorio en GitHub](https://github.com/Vaitiarecf/1DAMP_CamachoFreije_Vaitiare)
