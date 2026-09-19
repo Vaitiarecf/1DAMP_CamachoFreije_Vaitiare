@@ -35,7 +35,7 @@ El desarrollo de software se puede dividir en varias etapas:
 
 ## Imagen
 
-![Software](Imagenes/software.jpg)
+![Software](Imagenes/software.png)
 
 ## Repositorio
 
